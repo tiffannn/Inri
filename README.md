@@ -2,4 +2,6 @@
 -  👋 Hi my name is Inri
 -  🎧 I like to listen to music
 -  🏀 I like basketball
+-  🎮 I like to play games
+-  🍕 I LOVE food
 ## [Portfolio](https://tiffannn.github.io/Portfolio/tr7gedy.html)
